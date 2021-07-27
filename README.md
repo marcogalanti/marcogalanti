@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcogalanti
-- 👀 I’m interested in programming since old school days 
-- 🌱 I’m currently learning javascript fullstack after some ruby/python dev projects
+- 👀 I love coding since old school days 
+- 🌱 I developed few fullstack projects using ruby/python web dev frameworks
 
 <!---
 marcogalanti/marcogalanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
